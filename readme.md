@@ -38,10 +38,6 @@ To fine-tune the model, open **DeepSeek_FineTune.ipynb** in Jupyter Notebook or 
 
 To test the model, open **Test_Modal.ipynb** and run the inference code.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ---
 
 Feel free to contribute or raise issues if you encounter any problems!
